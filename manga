@@ -1,0 +1,17 @@
+{
+  "title": "<manga title>"
+  "description": "<manga description>"
+  "artist": "<manga artist>"
+  "author": "<manga author>"
+  "cover": "<mangacoverurl.jpg>"
+  "chapters": {
+    "<65>": {
+      "title": "<Grand Blue>"
+      "volume": "<16>"
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<mzv32wb>/"
+      }
+      "last_updated": "1616368746"
+    }
+  }
+}
