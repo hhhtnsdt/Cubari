@@ -1,17 +1,17 @@
-{
-  "title": "<Grand Blue>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
-  "chapters": {
-    "<65>": {
-      "title": "<Ngày hai hỗn loạn>",
-      "volume": "<16>",
-      "groups": {
-        "<JA Team>": "/proxy/api/imgur/chapter/<mzv32wb>/"
-      },
-      "last_updated": "1616368746"
+{    
+    "title": "War for Rayuba: Shield Soundyear II",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "author": "Shield Generator 7",
+    "artist": "Shield Generator 7",
+    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        }
     }
-  }
 }
