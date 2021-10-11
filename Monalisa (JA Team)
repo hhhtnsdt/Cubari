@@ -13,13 +13,13 @@
             "title": "Con trai con gái",
             "volume": "4"
         }
-    }
-     "20": {
-      "title": "Tình yêu không thể quên lãng",
-      "volume": "4",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<T9Crvxp>/"
-      },
+        "20": {
+             "title": "Tình yêu không thể quên lãng",
+             "volume": "4",
+             "groups": {
+                 "Imgur": "/proxy/api/imgur/chapter/<T9Crvxp>/"
+                       },
       "last_updated": "1616368746"
+        } 
     }
 }
