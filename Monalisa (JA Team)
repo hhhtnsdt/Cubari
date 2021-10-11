@@ -1,0 +1,25 @@
+{    
+    "title": "Seibetsu Monalisa no Kimi he (JA Team)",
+    "description": "Trong thế giới này, khi con người đến tuổi 12, thể chất của mỗi người dần dần thay đổi theo giới tính mà họ mong muốn. Và cho đến năm 14 tuổi, vẻ ngoài của họ thay đổi đúng theo với giới tính đó. Nhưng vào mùa xuân năm tôi 18 tuổi, tôi vẫn chưa thể nào xác định được giới tính của chính bản thân mình...",
+    "author": "Yoshimura Tsumuji",
+    "artist": "Yoshimura Tsumuji",
+    "cover": "https://i.imgur.com/zHQ6WP8.jpg",
+    "chapters": {
+        "19": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/0aj5hql"
+            },
+            "last_updated": 1624606143,
+            "title": "Con trai con gái",
+            "volume": "4"
+        }
+    }
+     "20": {
+      "title": "Tình yêu không thể quên lãng",
+      "volume": "4",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<T9Crvxp>/"
+      },
+      "last_updated": "1616368746"
+    }
+}
