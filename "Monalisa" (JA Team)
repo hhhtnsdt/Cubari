@@ -5,21 +5,21 @@
     "artist": "Yoshimura Tsumuji",
     "cover": "https://i.imgur.com/zHQ6WP8.jpg",
     "chapters": {
-        {"19": {
+        "19": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/0aj5hql"
             },
             "last_updated": 1624606143,
             "title": "Con trai con gái",
             "volume": "4"
-        }}
-       {"20": {
+        },
+       "20": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/T9Crvxp"
             },
             "last_updated": 1624606143,
             "title": "Tình yêu không thể quên lãng",
             "volume": "4"
-        }}
+        }
     }
 }
