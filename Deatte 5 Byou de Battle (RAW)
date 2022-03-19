@@ -3,7 +3,7 @@
     "description": "Raw of Battle in 5 second after meeting, uploaded by Jalter",
     "author": "Harawata Saizou",
     "artist": "Harawata Saizou",
-    "cover": "https://imgur.com/a/ahZxw1V",
+    "cover": "https://i.imgur.com/kR6jGCT.png",
     "chapters": {
         "125": {
             "groups": {
@@ -11,6 +11,62 @@
             },
             "title": "Chapter 125",
             "volume": "15"
-        }
+        },
+        "126": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/EEKUNJX"
+            },
+            "title": "Chapter 126",
+            "volume": "15"
+        },
+        "127": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/QAN2T7I"
+            },
+            "title": "Chapter 127",
+            "volume": "15"
+        },    
+        "128": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/5jZKto1"
+            },
+            "title": "Chapter 128",
+            "volume": "15"
+        },    
+        "129": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/TsKhmvv"
+            },
+            "title": "Chapter 129",
+            "volume": "15"
+        },    
+        "130": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/9UU1zIb"
+            },
+            "title": "Chapter 130",
+            "volume": "15"   
+        },    
+        "131": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/qPaMV8e"
+            },
+            "title": "Chapter 131",
+            "volume": "15" 
+        },    
+        "132": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/dhhawgi"
+            },
+            "title": "Chapter 132",
+            "volume": "15"
+        },    
+        "133": {
+            "groups": {
+                "JA Team": "/proxy/api/imgur/chapter/EL2NmrJ"
+            },
+            "title": "Chapter 133",
+            "volume": "15"   
+        }    
     }
 }
